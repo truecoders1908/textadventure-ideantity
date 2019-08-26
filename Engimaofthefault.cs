@@ -21,7 +21,8 @@ namespace Enigma
               @" / __/ __ \/ _ \   / /_/ __ `/ / / / / __/            ",
               @"/ /_/ / / /  __/  / __/ /_/ / /_/ / / /_              ",
               @"\__/_/ /_/\___/  /_/  \__,_/\__,_/_/\__/              ",
-                // Credit -- Author: Junji ito 10/10 would reccomend 
+                // Credit -- Author: Junji ito 10/10 would reccomend
+                // Have book if intrested in reading 
 
             };
             Console.WriteLine("\n\n");
